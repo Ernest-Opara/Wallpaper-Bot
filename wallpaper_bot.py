@@ -5,10 +5,10 @@ import time
 import os
 
 # credentials to login to twitter api
-consumer_key = 'cxZhHUUI0O0sP4H8UZiOpDsgL'
-consumer_secret = 'KgCIIagNFmphfeclJpp4naFilE32YEdvBX1hPJDAFjSxyEofBW'
-access_token = '1184954975962750976-6rKcEPbH5OwvybcdhfNLORmaYX7gcz'
-access_secret = 'I6H0Eke3uwM39ojHsFwaImsDhzXuhtlYvJLi3uvTtsETy'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 # login to twitter account api
 auth = tp.OAuthHandler(consumer_key, consumer_secret)
